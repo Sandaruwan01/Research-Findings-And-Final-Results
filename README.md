@@ -42,8 +42,15 @@ The analysis was conducted on data collected from **20 students**. The results r
 ## System Screenshots
 Here are some screenshots of the **Sorting Arcade** platform:
 
-| Main Menu / Dashboard | Gameplay Visualization |
+| Main Menu  | Gameplay Insertion Sort |
 | :---: | :---: |
-| <img src="UI Screenshots/Home.png" width="400"> | <img src="Screenshots/Insertion.png" width="400"> |
+| <img src="UI Screenshots/Home.png" width="400"> | <img src="Screenshots/insertion sort.png" width="400"> |
 
+| MCQ Section | Gameplay Mearg Sort |
+| :---: | :---: |
+| <img src="UI Screenshots/mcq quick.png" width="400"> | <img src="Screenshots/merge.png" width="400"> |
+
+| User Profile | Leder Board |
+| :---: | :---: |
+| <img src="UI Screenshots/user profile.png" width="400"> | <img src="Screenshots/mcq leder.png" width="400"> |
 
