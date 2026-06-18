@@ -43,7 +43,7 @@ The analysis was conducted on data collected from **20 students**. The results r
 Here are some screenshots of the **Sorting Arcade** platform:
 
 | Main Menu  | 
-| :---: | :---: |
+| :---: |
 | <img src="UI Screenshots/Home.png" width="400"> |
 
 | Gameplay Insertion Sort |
@@ -58,8 +58,8 @@ Here are some screenshots of the **Sorting Arcade** platform:
 | :---: |
 |<img src="Screenshots/merge.png" width="400"> |
 
-| User Profile | Leder Board |
-| :---: | :---: |
+| User Profile | 
+| :---: |
 | <img src="UI Screenshots/user profile.png" width="400"> |
 
 | Leder Board |
