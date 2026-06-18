@@ -48,7 +48,7 @@ Here are some screenshots of the **Sorting Arcade** platform:
 
 | Gameplay Insertion Sort |
 | :---: |
-|<img src="Screenshots/insertion sort.png" width="400"> |
+|<img src="UI Screenshots/insertion sort.png" width="400"> |
 
 | MCQ Section | 
 | :---: |
@@ -56,7 +56,7 @@ Here are some screenshots of the **Sorting Arcade** platform:
 
 | Gameplay Mearg Sort |
 | :---: |
-|<img src="Screenshots/merge.png" width="400"> |
+|<img src="UI Screenshots/merge.png" width="400"> |
 
 | User Profile | 
 | :---: |
@@ -64,4 +64,4 @@ Here are some screenshots of the **Sorting Arcade** platform:
 
 | Leder Board |
 | :---: |
-| <img src="Screenshots/mcq leder.png" width="400"> |
+| <img src="UI Screenshots/mcq leder.png" width="400"> |
